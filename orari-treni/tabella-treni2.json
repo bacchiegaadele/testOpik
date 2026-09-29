@@ -1,0 +1,106 @@
+[
+  {
+    "Treno": "Regionale",
+    "Destinazione": "Verona",
+    "Orario": "8:20",
+    "Binario": "4",
+    "Durata(hh:mm)": "0:45",
+    "": ""
+  },
+  {
+    "Treno": "Frecciarossa",
+    "Destinazione": "Roma",
+    "Orario": "8:32",
+    "Binario": "1",
+    "Durata(hh:mm)": "3:05",
+    "": ""
+  },
+  {
+    "Treno": "Italo",
+    "Destinazione": "Milano",
+    "Orario": "8:35",
+    "Binario": "2",
+    "Durata(hh:mm)": "2:30",
+    "": ""
+  },
+  {
+    "Treno": "Regionale",
+    "Destinazione": "Verona",
+    "Orario": "8:45",
+    "Binario": "4",
+    "Durata(hh:mm)": "0:40",
+    "": ""
+  },
+  {
+    "Treno": "Regionale",
+    "Destinazione": "Rovigo",
+    "Orario": "9:03",
+    "Binario": "3",
+    "Durata(hh:mm)": "0:55",
+    "": ""
+  },
+  {
+    "Treno": "Italo",
+    "Destinazione": "Venezia",
+    "Orario": "9:12",
+    "Binario": "3",
+    "Durata(hh:mm)": "0:30",
+    "": ""
+  },
+  {
+    "Treno": "Regionale",
+    "Destinazione": "Venezia",
+    "Orario": "9:20",
+    "Binario": "4",
+    "Durata(hh:mm)": "1:00",
+    "": ""
+  },
+  {
+    "Treno": "Frecciarossa",
+    "Destinazione": "Milano",
+    "Orario": "9:29",
+    "Binario": "5",
+    "Durata(hh:mm)": "2:15",
+    "": ""
+  },
+  {
+    "Treno": "Italo",
+    "Destinazione": "Roma",
+    "Orario": "9:38",
+    "Binario": "3",
+    "Durata(hh:mm)": "3:00",
+    "": ""
+  },
+  {
+    "Treno": "Frecciarossa",
+    "Destinazione": "Venezia",
+    "Orario": "9:42",
+    "Binario": "1",
+    "Durata(hh:mm)": "0:25",
+    "": ""
+  },
+  {
+    "Treno": "Regionale",
+    "Destinazione": "Bologna",
+    "Orario": "9:55",
+    "Binario": "1",
+    "Durata(hh:mm)": "1:45",
+    "": ""
+  },
+  {
+    "Treno": "Regionale",
+    "Destinazione": "Verona",
+    "Orario": "10:00",
+    "Binario": "2",
+    "Durata(hh:mm)": "0:50",
+    "": ""
+  },
+  {
+    "Treno": "Regionale",
+    "Destinazione": "Rovigo",
+    "Orario": "10:11",
+    "Binario": "5",
+    "Durata(hh:mm)": "0:50",
+    "": ""
+  }
+]
